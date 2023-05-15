@@ -1,1 +1,1 @@
-# Boston-house-prediction
+# Boston-house-price
